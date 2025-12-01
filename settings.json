@@ -1,0 +1,4 @@
+{
+  "time_format": "%H:%M:%S",
+  "log_file": "logs/history.log"
+}
